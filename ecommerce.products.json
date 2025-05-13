@@ -1,0 +1,214 @@
+[{
+  "_id": {
+    "$oid": "680976a61b27844c7422dcdc"
+  },
+  "name": "iPhone 14 Pro",
+  "description": "Latest iPhone with amazing camera features",
+  "price": 999.99,
+  "category": "Electronics",
+  "image": "https://images.unsplash.com/photo-1678652197831-2d180705cd2c?w=800&auto=format&fit=crop",
+  "slug": "iphone-14-pro",
+  "isActive": true,
+  "stock": 10,
+  "rating": 0,
+  "numReviews": 0,
+  "onSale": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-23T23:24:22.338Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-23T23:24:22.338Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "680976a61b27844c7422dcdd"
+  },
+  "name": "MacBook Air M2",
+  "description": "Powerful and portable laptop with M2 chip",
+  "price": 1299.99,
+  "category": "Electronics",
+  "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800&auto=format&fit=crop",
+  "slug": "macbook-air-m2",
+  "isActive": true,
+  "stock": 5,
+  "rating": 0,
+  "numReviews": 0,
+  "onSale": true,
+  "salePrice": 1199.99,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-23T23:24:22.341Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-23T23:24:22.341Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "680976a61b27844c7422dcde"
+  },
+  "name": "Nike Air Max",
+  "description": "Comfortable running shoes for everyday use",
+  "price": 129.99,
+  "category": "Fashion",
+  "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800&auto=format&fit=crop",
+  "slug": "nike-air-max",
+  "isActive": true,
+  "stock": 15,
+  "rating": 0,
+  "numReviews": 0,
+  "onSale": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-23T23:24:22.341Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-23T23:24:22.341Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "680976a61b27844c7422dcdf"
+  },
+  "name": "Sony WH-1000XM4",
+  "description": "Premium noise-cancelling headphones",
+  "price": 349.99,
+  "category": "Electronics",
+  "image": "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?w=800&auto=format&fit=crop",
+  "slug": "sony-wh-1000xm4",
+  "isActive": true,
+  "stock": 8,
+  "rating": 0,
+  "numReviews": 0,
+  "onSale": true,
+  "salePrice": 299.99,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-23T23:24:22.341Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-23T23:24:22.341Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "680977aff65a8b518da018b5"
+  },
+  "name": "jeans",
+  "description": "for body",
+  "price": 100,
+  "category": "clothing",
+  "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+  "slug": "jeans",
+  "isActive": true,
+  "stock": 12,
+  "rating": 0,
+  "numReviews": 0,
+  "onSale": true,
+  "salePrice": 50,
+  "createdAt": {
+    "$date": "2025-04-23T23:28:47.356Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-23T23:28:47.356Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6809789776b2c29329006a90"
+  },
+  "name": "jeanss",
+  "description": "k",
+  "price": 100,
+  "category": "clothing",
+  "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+  "slug": "jeanss",
+  "isActive": true,
+  "stock": 12,
+  "rating": 0,
+  "numReviews": 0,
+  "onSale": false,
+  "salePrice": null,
+  "createdAt": {
+    "$date": "2025-04-23T23:32:39.592Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-23T23:32:39.592Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68097cf7b6dc03c4a51b37d7"
+  },
+  "name": "jeansss",
+  "description": "a",
+  "price": 100,
+  "category": "clothing",
+  "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+  "slug": "jeansss",
+  "isActive": true,
+  "stock": 12,
+  "rating": 0,
+  "numReviews": 0,
+  "onSale": false,
+  "salePrice": null,
+  "createdAt": {
+    "$date": "2025-04-23T23:51:19.118Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-23T23:51:19.118Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680aaf9e0894c0b701176b96"
+  },
+  "name": "ajfon",
+  "description": "for wearing it",
+  "price": 100,
+  "category": "clothing",
+  "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+  "slug": "ajfon",
+  "isActive": true,
+  "stock": 12,
+  "rating": 0,
+  "numReviews": 0,
+  "onSale": true,
+  "salePrice": 19.96,
+  "createdAt": {
+    "$date": "2025-04-24T21:39:42.370Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-24T21:39:42.370Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680ab3b4d20be798927bdd32"
+  },
+  "name": "jeanssssss",
+  "description": "hyyu",
+  "price": 100,
+  "category": "cameras",
+  "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+  "slug": "jeanssssss",
+  "isActive": true,
+  "stock": 12,
+  "rating": 0,
+  "numReviews": 0,
+  "onSale": true,
+  "salePrice": 65.93,
+  "createdAt": {
+    "$date": "2025-04-24T21:57:08.341Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-24T21:57:08.341Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,190 @@
+[{
+  "_id": {
+    "$oid": "680960d73cb17119c12901bc"
+  },
+  "name": "Admin User",
+  "email": "admin@example.com",
+  "password": "iligashi",
+  "role": "admin",
+  "createdAt": {
+    "$date": "2025-04-23T21:51:19.204Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-23T21:51:19.204Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "680964ffeabc27eed3c997b2"
+  },
+  "name": "Ilaz Gashi",
+  "email": "ilaz.gashi@digitalschool.tech",
+  "password": "$2b$10$tVC8dKLY2EEkOUBiZUN4YOzjCpGiTS7lIMBo5vTkGVIEJl9/7FRba",
+  "role": "user",
+  "wishlist": [],
+  "addresses": [],
+  "createdAt": {
+    "$date": "2025-04-23T22:09:03.447Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-23T22:09:03.447Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68096617eabc27eed3c997b5"
+  },
+  "name": "ili gashi",
+  "email": "iligashi@gmail.com",
+  "password": "$2b$10$AgoUGpFWUQ3RGUH8EdV5..OvayPJGtP9sWI4pbFfTZkIU6admK3Wa",
+  "role": "user",
+  "wishlist": [],
+  "addresses": [],
+  "createdAt": {
+    "$date": "2025-04-23T22:13:43.313Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-23T22:13:43.313Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68096a8eeabc27eed3c997ed"
+  },
+  "name": "admin",
+  "email": "admin1@example.com",
+  "password": "$2b$10$wTuS5agVw08BkxHgHxROG.IEhWasPlKX8v.ywes90NsRwKX9opCfm",
+  "role": "admin",
+  "wishlist": [],
+  "addresses": [],
+  "createdAt": {
+    "$date": "2025-04-23T22:32:46.065Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-23T22:32:46.065Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6809731deabc27eed3c99819"
+  },
+  "name": "ili gashi",
+  "email": "iligashi1@gmail.com",
+  "password": "$2b$10$oqrBX7CN66RZmGrdd47NeeUEKyvh6eHLc0.KO48636qBAmYuw4cp6",
+  "role": "user",
+  "wishlist": [],
+  "addresses": [],
+  "createdAt": {
+    "$date": "2025-04-23T23:09:17.890Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-23T23:09:17.890Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680973e8eabc27eed3c9981f"
+  },
+  "name": "didi",
+  "email": "didirexha1@gmail.com",
+  "password": "$2b$10$msDRg9gO7OvBpEAoW/ePv.nvz/eTlMWkzFD14oflbRpudlU5sOPYe",
+  "role": "user",
+  "wishlist": [],
+  "addresses": [],
+  "createdAt": {
+    "$date": "2025-04-23T23:12:40.254Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-23T23:12:40.254Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6809751ceabc27eed3c9982e"
+  },
+  "name": "era Gashi",
+  "email": "eragashi1@gmail.com",
+  "password": "$2b$10$uKXauKKRxpcbcRxGCV0zYu5hGmPIkfOM3NLJ0yes/C.cK5MNBT1IS",
+  "role": "user",
+  "wishlist": [],
+  "addresses": [],
+  "createdAt": {
+    "$date": "2025-04-23T23:17:48.231Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-23T23:17:48.231Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680aaa33f3f0a85ce3da8cf6"
+  },
+  "name": "Ilaz Gashi",
+  "email": "ilaz.gashi@digitalschoool.tech",
+  "password": "$2b$10$H5IRmDIfP5.nbs.syVC0QOQMjZZ63H5yU35EST24p.Z76q.9Hic0u",
+  "role": "user",
+  "createdAt": {
+    "$date": "2025-04-24T21:16:35.248Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-24T21:16:35.248Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680aae97fbc43040cc76ed96"
+  },
+  "name": "Ilaz Gashi",
+  "email": "ilaz.gashi@digitalschooool.tech",
+  "password": "$2b$10$nCvdHNcURTxQIGskGadV8eKxvSjYbNYVInopikI68iitZj91tN5f6",
+  "role": "user",
+  "createdAt": {
+    "$date": "2025-04-24T21:35:19.147Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-24T21:35:19.147Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6820c976be3f2bb23d1d8d78"
+  },
+  "name": "ilaz",
+  "email": "ariana.kelmendi@example.com",
+  "password": "$2b$10$uCYrEoYWJIR5pZezsVK1j.XBXbCIc3FI3NhLir0yhAyKNhVkI.ltC",
+  "role": "user",
+  "status": "active",
+  "emailVerified": false,
+  "wishlist": [
+    {
+      "$oid": "680977aff65a8b518da018b5"
+    },
+    {
+      "$oid": "6809789776b2c29329006a90"
+    }
+  ],
+  "preferences": {
+    "language": "en",
+    "currency": "USD",
+    "newsletter": true,
+    "marketingEmails": true
+  },
+  "loginAttempts": 0,
+  "addresses": [],
+  "notifications": [],
+  "createdAt": {
+    "$date": "2025-05-11T15:59:50.800Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-13T01:30:52.928Z"
+  },
+  "__v": 14
+}]
